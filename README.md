@@ -1,0 +1,1 @@
+# This project is an automated, end-to-end data engineering pipeline built in Databricks. It extracts live cryptocurrency market data from the CoinGecko API, processes it through a Medallion Architecture (Bronze, Silver, Gold) using PySpark and Spark SQL, and generates a live volatility leaderboard for financial analysis.
