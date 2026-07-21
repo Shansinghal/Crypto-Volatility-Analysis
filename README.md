@@ -9,3 +9,5 @@ Data Processing: Apache Spark (PySpark), Spark SQL
 Storage: Delta Lake
 Orchestration: Databricks Workflows (Job Scheduler)
 Data Source: CoinGecko REST API
+
+<img width="1321" height="1155" alt="image" src="https://github.com/user-attachments/assets/9e9a2518-38f5-4f6a-99e8-98ebebc1a0af" />
